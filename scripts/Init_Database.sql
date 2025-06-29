@@ -1,4 +1,4 @@
--- Create Database 'datawarehouse'
+-- Create Database and Schemas
 
 Use master;
 Create Database DataWarehouse
